@@ -107,3 +107,4 @@ Never commit your .env.local file or API key.
 Use -e GOOGLE_GENERATIVE_AI_API_KEY="..." for secure runtime injection.
 
 ### Screenshot
+This is there in /public/screenshot.png
