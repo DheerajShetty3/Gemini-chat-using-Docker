@@ -105,3 +105,5 @@ Never commit your .env.local file or API key.
 .gitignore already includes .env* so you’re safe.
 
 Use -e GOOGLE_GENERATIVE_AI_API_KEY="..." for secure runtime injection.
+
+### Screenshot
